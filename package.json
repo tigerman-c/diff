@@ -3,6 +3,6 @@
 		"typescript": "^4.9.5"
 	},
 	"scripts": {
-		"dev": "tsc && node 1.js"
+		"dev": "tsc && node ./js/1.js"
 	}
 }
